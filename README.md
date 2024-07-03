@@ -1,5 +1,7 @@
 # loading-component
 
+Тестовое задание Промоушен.ру
+
 ## Project setup
 ```
 npm install
